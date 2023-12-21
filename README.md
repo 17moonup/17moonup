@@ -3,14 +3,14 @@
 - 🔭 I’m currently working on
   - website debug
   - IELTS 
-- 🌱 I’m currently reading
+- 🌱 I’m currently learning
   - Greek mythology
 -  👯 I’m looking to collaborate on
-  - hacking
-  - ctf
+    - hacking
+    - ctf
 - ⚡ Fun fact:
-  - photographer
-  - Sing
-  - Cook
-  - Read
-  - Badminton
+    - photographer
+    - Sing
+    - Cook
+    - Read
+    - Badminton

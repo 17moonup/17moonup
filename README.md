@@ -9,7 +9,7 @@
     - hacking
     - ctf
 - ⚡ Fun fact:
-    - photographer
+    - Photographer
     - Sing
     - Cook
     - Read

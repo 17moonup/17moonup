@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on
   - Website Update
   - IELTS
-  - MIT 18.01 Single Variable Calculus
+  - MIT 18.02 Multivariable Calculus
 - 🌱 I’m currently learning
   - Greek mythology
 -  👯 I’m looking to collaborate on

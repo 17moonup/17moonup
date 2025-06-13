@@ -1,14 +1,12 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on
-  - Website Update
-  - IELTS
+### H i `
+- I’m currently working on
+  - Frontend Developer
+  - UI Designer
 - 🌱 I’m currently learning
   - Greek mythology
--  👯 I’m looking to collaborate on
-    - Cyberspace Security
-- ⚡ Fun fact:
+  - Taoism
+  - Buddha Dharma
+- Fun fact:
     - Photographer
-    - Sing
-    - Read
-    - Badminton
+    - Singer
+    - Badminton player
